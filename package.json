@@ -9,7 +9,8 @@
   "devDependencies": {
     "jest-cucumber": "latest",
     "jest-puppeteer": "latest",
-    "puppeteer": "latest"
+    "puppeteer": "latest",
+    "jest-image-snapshot": "latest"
   },
   "scripts": {
     "test": "jest"
