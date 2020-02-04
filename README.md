@@ -7,7 +7,6 @@ Write UI tests using [Cucumber](https://github.com/cucumber/cucumber), [Gherkin]
 Run `yarn` to install the dependencies and then `yarn test` to execute the UI tests.
 
 To run the tests in headless mode:
-
 ```
 $ HEADLESS=false yarn test
 ```
